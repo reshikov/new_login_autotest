@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test_main.iml" group="addressbook-web-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test_test.iml" group="addressbook-web-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carid_login_test.iml" filepath="$PROJECT_DIR$/.idea/modules/carid_login_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carid_login_test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/carid_login_test_main.iml" group="carid_login_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carid_login_test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/carid_login_test_test.iml" group="carid_login_test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
     </modules>
   </component>
 </project>
