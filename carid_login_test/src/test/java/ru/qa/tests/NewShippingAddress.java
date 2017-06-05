@@ -23,7 +23,7 @@ public class NewShippingAddress {
         wd = new FirefoxDriver();
         wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
     }
-    
+
     @Test
     public void NewShippingAddress() {
         wd.get("https://www.carid.com/my-account/login/");
@@ -73,7 +73,7 @@ public class NewShippingAddress {
     public void tearDown() {
         wd.quit();
     }
-    
+
     public static boolean isAlertPresent(FirefoxDriver wd) {
         try {
             wd.switchTo().alert();
